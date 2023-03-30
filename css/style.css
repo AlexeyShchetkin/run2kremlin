@@ -95,7 +95,7 @@
 	.home-next{display:none;}
 	.home-partners, .switcher{text-align:right;}
 }
-.header,.rotate-header{	
+.header,.rotate-header{
 	font-family: 'PT Sans Narrow', arial;
 	font-size:24px;
 	letter-spacing: 5px;
@@ -289,10 +289,13 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 #contacts ul li.phone{background:url(../images/icon-phone.png) no-repeat 50% top transparent;padding-top:100px;}
 #contacts ul li.email a{color:#000;}
 #footer{background-color:#ebf5f7;text-align: center;padding:20px 0;}
+#footer .social a {margin: 0 10px; text-decoration: none;}
+#footer .social img {width: 65px;height:65px;}
 #footer ul{margin: 0; padding:0;text-align: center;}
 #footer ul li{display:inline-block;margin:20px 10px;}
 #footer ul li .fb{background:url(../images/icon-fb.png) no-repeat 50% 50% transparent;width:65px;height:65px;}
-#footer ul li .vk{background:url(../images/icon-vk.png) no-repeat 50% 50% transparent;width:65px;height:65px;}
+#footer ul li .vk{background:url(../images/icon-vk.svg) no-repeat 50% 50% transparent;width:65px;height:65px;}
+#footer ul li .tg{background:url(../images/icon-tg.svg) no-repeat 50% 50% transparent;width:65px;height:65px;}
 #footer ul li .ig{background:url(../images/icon-ig.png) no-repeat 50% 50% transparent;width:65px;height:65px;}
 #footer ul li .yt{background:url(../images/icon-yt.png) no-repeat 50% 50% transparent;width:65px;height:65px;}
 .admintable{border-top:1px solid gray;border-right:1px solid gray;}
@@ -304,7 +307,7 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 .admincontenttable td.head-info{border-bottom:1px dotted gray;}
 .admintable a{cursor: pointer;}
 .getform input{   width: 120px;}
-.getform input,.getform select { 
+.getform input,.getform select {
     display: inline-block;
     margin-right: 5px;
     margin-bottom: 3px;
@@ -321,7 +324,7 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 	padding-bottom:1px;
 }
 #valid{
-	font-size:12px;	
+	font-size:12px;
 	line-height:14px;
 	margin-left:20px;
 	color:red;

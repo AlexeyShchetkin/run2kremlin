@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <link rel="shortcut icon" href="favicon.jpg" type="image/jpeg">
+    <link rel="shortcut icon" href="favicon.png?2" type="image/jpeg">
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>От кремля до кремля</title>
+    <title>от Кремля до Кремля</title>
 
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css?557" rel="stylesheet">
+    <link href="css/style.css?2" rel="stylesheet">
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-latest.pack.js"></script>
     <script type="text/javascript" language="javascript" src="js/jquery.tosrus.min.all.js"></script>
@@ -69,7 +69,7 @@
                 <li><a href="#about" class="topLink">О мероприятии</a></li>
                 <li><a href="#map" class="topLink">Трасса</a></li>
                 <li><a href="#media" class="topLink">Фото</a></li>
-                <li><a href="video.html" target="_blank">Видео</a></li>
+                <li><a href="#media" class="topLink">Видео</a></li>
                 <li><a href="#rules" class="topLink">Информация</a></li>
                 <li><a href="#contacts" class="topLink">Контакты</a></li>
             </ul>
@@ -88,8 +88,8 @@
                 </ul>
             </div>
             <div class="logo">
-                <h1>От кремля<br/> до кремля</h1>
-                Долгожданный старт из Зарайска в Коломну
+                <h1>от Кремля<br/> до Кремля</h1>
+                Долгожданный старт из Коломны в Зарайск
             </div>
             <div class="home-next">
                 <a href="#about" class="topLink"><img src="images/arr-down.png"></a>
@@ -107,7 +107,7 @@
         <div class="col-sm-11">
             <div class="about-text">
                 <div class="col-md-4 col-sm-12">
-                    <h2 style="margin-top: 0;">Максимальное количество участников – 500 атлетов</h2>
+                    <h2 style="margin-top: 0;">Максимальное количество участников – 100 атлетов</h2>
                 </div>
                 <div class="col-md-4 col-sm-12">
                     <p>Общая длительность маршрута: около 65 км. Для эстафеты доступно 4 этапа длительностью от 12 до 20
@@ -122,12 +122,12 @@
             <br clear="all">
             <div class="about-text">
                 <div class="col-md-4 col-sm-12">
-                    <h2 style="margin-top: 0;">Маршрут соединяет Зарайск и Коломну, расположенные на юго-востоке
+                    <h2 style="margin-top: 0;">Маршрут соединяет Зарайск и Коломну, древние города на юго-востоке
                         Подмосковья в 100 км от Москвы
                     </h2>
                 </div>
                 <div class="col-md-4 col-sm-12">
-                    <p>Маршрут "от кремля до кремля" - линейная дистанция соединяющая Коломенский и Зарайские кремли.
+                    <p>Маршрут "от Кремля до Кремля" - линейная дистанция соединяющая Коломенский и Зарайские кремли.
                         Проходит по полевым и лесным дорогам Коломенского, Зарайского, Луховицкого и Озерского районов.
                     </p>
                 </div>
@@ -188,8 +188,8 @@
             <div class="col-md-10 col-sm-10">
                 <div class="" id="rules-1">
 <p>Друзья!</p>
-<p>Мы хотим предложить вам принять участие в пробеге “От кремля до кремля”. </p>
-<p>Старт - вечером в субботу от Пятницких ворот Коломенского кремля, финиш - утром в воскресенье у Никольской башни Зарайского кремля. </p>
+<p>Мы хотим предложить вам принять участие в пробеге “от Кремля до Кремля”.</p>
+<p>Старт - в ночь с субботы на воскресенье от Пятницких ворот Коломенского кремля, финиш - утром в воскресенье у Зарайского кремля.</p>
 <p>Общая длина маршрута -- около 65 км. Его можно пробежать полностью или в составе команды в виде эстафеты.</p>
 <p>Этапы эстафеты:
 <ul>
@@ -202,7 +202,7 @@
 <p>Дистанция будет частично размечена. Участники должны иметь устройство с записанным треком дистанции. Окончательные треки мы опубликуем за 2 недели до мероприятия.</p>
 <p>В местах смены эстафеты мы организуем воду и питание. Просим участников иметь многоразовые стаканчики для воды.</p>
 <p>Участники добираются до старта и перемещаются между местами смены эстафеты на своем транспорте. Часть дистанции будет проходить по дорогам общего пользования. Дороги перекрываться не будут, поэтому всем нужно будет соблюдать правила дорожного движения.</p>
-<p>Для участия нужно будет зарегистрироваться на orgeo.ru и оплатить организационный взнос. Собранные деньги пойдут на организацию питания участников.</p>
+<p>Для участия нужно будет зарегистрироваться на <a href="http://myrace.info" target="_blank">сайте myrace.info</a> и оплатить организационный взнос.</p>
 
                 </div>
             </div>
@@ -217,25 +217,21 @@
         </div>
         <div class="col-md-10 col-sm-10">
             <ul>
-                <li class="email"><a href="mailto:kolomnarunclub@gmail.com">kolomnarunclub@gmail.com</a></li>
-                <li class="phone">+7-916-265-18-13</li>
+                <li class="email"><a href="mailto:run2kremlins@gmail.com">run2kremlins@gmail.com</a></li>
             </ul>
         </div>
         <div class="col-md-1 hidden-sm"></div>
     </div>
 </div>
 <div id="footer">
-    <ul>
-        <li><a href="https://vk.com/krunclub">
-                <div class="vk"></div>
-            </a></li>
-        <li><a href="https://www.instagram.com/kolomnarunclub/">
-                <div class="ig"></div>
-            </a></li>
-        <li><a href="https://www.youtube.com/channel/UCkO2ASTROXBT6_JDN8ZQPug">
-                <div class="yt"></div>
-            </a></li>
-    </ul>
+    <div class="social">
+        <a href="https://vk.com/run2kremlins" target="_blank">
+            <img src="/images/icon-vk.svg" />
+        </a>
+        <a href="https://t.me/+885mnkeR7FwzYmVi" target="_blank">
+            <img src="/images/icon-tg.svg" />
+        </a>
+    </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
