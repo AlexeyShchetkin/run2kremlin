@@ -12,7 +12,7 @@
     <link href="css/style.css?2" rel="stylesheet">
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-latest.pack.js"></script>
-    <script type="text/javascript" language="javascript" src="js/jquery.tosrus.min.all.js"></script>
+    <script type="text/javascript" src="js/jquery.tosrus.min.all.js"></script>
     <link type="text/css" media="all" rel="stylesheet" href="css/jquery.tosrus.all.css"/>
 
     <script type="text/javascript">
