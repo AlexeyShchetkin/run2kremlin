@@ -154,119 +154,6 @@ h2 span{
 .about-top div{height:100px;}
 @media (max-width: 768px) {.about-top div{height:120px;}}
 .about-text,.about-top{margin-left:-15px;margin-right:-15px;}
-#registration{
-	background:url(../images/bg-registration.jpg) no-repeat fixed 50% 50% #dae0e5;
-    background-size: cover;
-	min-height:800px;
-}
-.registration-block{
-	max-width:800px;
-	width:100%;
-	margin:0 auto;
-}
-.registration-top{
-	border-top-left-radius:10px;
-	border-top-right-radius:10px;
-	background:url(../images/logo-vmr-no-text.png) no-repeat 50% 50% #000;
-	background-size: contain;
-	height:100px;
-}
-.registration-main{
-	border-bottom-left-radius:10px;
-	border-bottom-right-radius:10px;
-	background-color:#ebf5f7;
-	border:1px solid #cecece;
-	padding:40px 0;
-}
-#registration .field, #services .field{
-	width:320px;
-	max-width:100%;
-	margin:5px auto;
-	padding:5px 20px;
-	border-radius:10px;
-	border:1px solid #cecece;
-	background-color:#fff;
-}
-#registration label, #services label{
-	display: inline-block;
-	cursor: pointer;
-	position: relative;
-	padding-left: 30px;
-	padding-top: 10px;
-	margin-right: 15px;
-	font-size: 20px;
-	font-weight: normal;
-}
-#registration .rotate-header{
-	color: #fff;
-}
-#registration input[type=radio], #registration input[type=checkbox], #services input[type=radio], #services input[type=checkbox] {
-	display: none;
-}
-#registration label:before, #services label:before {
-	content: "";
-	display: inline-block;
-	width: 24px;
-	height: 24px;
-	margin-right: 10px;
-	position: absolute;
-	left: 0;
-	top: 8px;
-	bottom: 1px;
-	background-color: #fff;
-	border:1px solid #000;
-	/*box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);*/
-}
-#registration .radio label:before, #services .radio label:before {
-	border-radius: 0px;
-}
-#registration input[type=radio]:checked + label:before, #registration input[type=checkbox]:checked + label:before, #services input[type=radio]:checked + label:before,#services input[type=checkbox]:checked + label:before {
-    content: "\2713";
-    color: #000;
-    font-size: 30px;
-    text-align: center;
-    line-height: 18px;
-}
-#registration ul.distance-list{
-	margin:0;
-	padding:0;
-}
-#registration ul.distance-list li{
-	width:120px;
-	float:left;
-	display:block;
-	color:#a3a3a3;
-	text-align:center;
-	margin-right:20px;
-}
-#registration ul.distance-list li div{
-	width:130px;
-	text-align:center;
-	background-color:#fff;
-	border:1px solid #cecece;
-	text-decoration:none;
-	color:#000;
-	cursor:pointer;
-	border-radius:3px;
-}
-#registration ul.distance-list li div.active{
-	background-color:#000;
-	border:1px solid #cecece;
-	color:#fff;
-}
-#registration ul.distance-list li div:hover,#registration ul.distance-list li div.active{
-	background-color:#000;
-	color:#fff;
-}
-#registration input[type=submit], #services input[type=submit] {
-	width: 100%;
-	background-color:#000;
-	color:#fff;
-	border-radius:10px;
-	border:0;
-	padding:5px 0;
-}
-#registration input[type=submit]:hover, #services input[type=submit]:hover {background-color:#467dcf;}
 .tos-slide img{max-width:100%;}
 #partners .rotate-header{width: 400px; height: 400px;}
 @media (max-width: 768px){#partners .rotate-header {width: initial; height: initial;}}
@@ -281,8 +168,6 @@ ul.rules-menu a{color:#000;text-decoration:none;cursor:pointer;}
 ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;color: #2fbfce;}
 #rules h3{font-size:22px;color:#2fbfce;text-transform:uppercase;}
 .rules-item{display:none}
-#registration #noticebox, #services #noticebox{color:red;clear:both;}
-#registration .agreement, #services .agreement{color:#53c7d4;clear:both;margin-top:25px;}
 #contacts ul{margin: 0; padding:0;text-align: center;}
 #contacts ul li{display:inline-block;margin:20px 40px;}
 #contacts ul li.email{background:url(../images/icon-email.png) no-repeat 50% top transparent;padding-top:100px;}
@@ -317,12 +202,6 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 }
 .getform input[type=submit]{border: 1px solid #000;}
 .getform span { display: inline-block; margin-right: 5px;line-height:30px;}
-#registration ul.distance-list li.t10{display:none;}
-#registration ul.distance-list li.t10{display:none;}
-#registration #year.field {
-	padding-top:1px;
-	padding-bottom:1px;
-}
 #valid{
 	font-size:12px;
 	line-height:14px;
@@ -344,9 +223,6 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
     border: 1px solid rgb(206, 206, 206);
     background-color: rgb(255, 255, 255);
 }
-#registration #country.field{
-	padding-left: 15px;
-}
 .partners_item{
 	display: inline-block;
 	height:70px;
@@ -360,15 +236,6 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 }
 .partners_title{
 	margin: 15px 0 5px 0;
-}
-#registration #size2{
-	display:none
-}
-#registration #size2.active{
-	display:block
-}
-#registration #size2 label{
-	width:75px;
 }
 .page{
 	margin-top:20px;
@@ -414,4 +281,19 @@ ul.rules-menu a.active,ul.rules-menu a:hover,#rules a.active{font-weight: bold;c
 }
 .service-description{
 	font-size: 85%;
+}
+
+.registration-wrapper {
+    text-align: center;
+}
+
+.btn-registration {
+    background-color: black;
+    color: white;
+    border-radius: 45px;
+    font-size: 20px;
+    padding: 10px 100px;
+}
+.btn-registration:hover {
+    color: white;
 }
