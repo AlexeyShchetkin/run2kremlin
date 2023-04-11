@@ -9,7 +9,7 @@
     <title>от Кремля до Кремля</title>
 
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/style.css?2" rel="stylesheet">
+    <link href="css/style.css?4" rel="stylesheet">
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-latest.pack.js"></script>
     <script type="text/javascript" src="js/jquery.tosrus.min.all.js"></script>
