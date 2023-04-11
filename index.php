@@ -71,8 +71,8 @@
                 <li><a href="#media" class="topLink">Фото</a></li>
                 <li><a href="#media" class="topLink">Видео</a></li>
                 <li><a href="#rules" class="topLink">Информация</a></li>
-                <li><a href="#contacts" class="topLink">Контакты</a></li>
                 <li><a href="#registration" class="topLink">Регистрация</a></li>
+                <li><a href="#contacts" class="topLink">Контакты</a></li>
             </ul>
         </div>
     </div>
@@ -210,13 +210,13 @@
         </div>
     </div>
 </div>
-<div class="container" id="registration">
+<div id="registration">
     <div class="row">
         <div class="col-md-1 col-sm-2">
             <div class="rotate-header">Регистрация</div>
         </div>
-        <div class="col-md-10 col-sm-10">
-            <p>Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2023.pdf" target="_blank">Положение</a></p>
+        <div class="col-md-10 col-sm-10" style="padding-top: 50px;">
+            <p class="registration-wrapper">Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2023.pdf" target="_blank">Положение</a></p>
             <p class="registration-wrapper">
                 <a class="btn btn-registration" href="https://myrace.info/events/443" target="_blank">Регистрация</a>
             </p>
@@ -224,7 +224,7 @@
         <div class="col-md-1 hidden-sm"></div>
     </div>
 </div>
-<div class="container" id="contacts">
+<div id="contacts">
     <div class="row">
         <div class="col-md-1 col-sm-2">
             <div class="rotate-header">Контакты</div>
