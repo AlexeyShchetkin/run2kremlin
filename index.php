@@ -147,10 +147,10 @@
                 <div class="rotate-header">Трасса</div>
             </div>
             <div class="col-sm-4 pad">
-                <a href="https://nakarte.me/#m=11/54.93181/38.81602&l=O&nktl=RTMjtxmR9K6DiwmMOfNlow" target="_blank"><h2>Трек 2022</h2></a>
+                <a href="https://nakarte.me/#m=11/54.92872/38.91632&l=O&nktl=rCVfClAvUT8y2wDeDUAg-g" target="_blank"><h2>Треки 2023</h2></a>
             </div>
             <div class="col-sm-7">
-                <img src="images/map/2022_sm.png?557" class="map-img"
+                <img src="images/map/2023.png" class="map-img"
                                                        style="max-width:800px">
             </div>
 
@@ -189,7 +189,7 @@
             <div class="col-md-10 col-sm-10">
                 <div class="" id="rules-1">
 <p>Друзья!</p>
-<p>Приглашаем вас принять участие в пробеге "от Кремля до Кремля".</p>
+<p>Приглашаем вас принять участие в пробеге "от Кремля до Кремля" 13 августа 2023 года.</p>
 <p>Старт - в ночь с субботы на воскресенье от Пятницких ворот Коломенского кремля, финиш - утром в воскресенье у Зарайского кремля.</p>
 <p>Общая длина маршрута -- около 65 км. Его можно пробежать полностью или в составе команды в виде эстафеты.</p>
 <p>Этапы эстафеты:
@@ -203,7 +203,7 @@
 <p>В местах смены эстафеты мы организуем воду и питание. Просим участников иметь многоразовые стаканчики для воды.</p>
 <p>Участники добираются до старта и перемещаются между местами смены эстафеты на своем транспорте. Часть дистанции будет проходить по дорогам общего пользования. Дороги перекрываться не будут, поэтому всем нужно будет соблюдать правила дорожного движения.</p>
 <p>Для участия нужно будет зарегистрироваться на <a href="https://myrace.info/events/443" target="_blank">myrace.info</a> и оплатить организационный взнос.</p>
-                    <p><a href="/uploads/run2kremlins_2023.pdf" target="_blank">Подробнее</a></p>
+                    <p><a href="/uploads/run2kremlins_2023_08.pdf" target="_blank">Подробнее</a></p>
                 </div>
             </div>
             <div class="col-md-1 hidden-sm"></div>
@@ -216,7 +216,7 @@
             <div class="rotate-header">Регистрация</div>
         </div>
         <div class="col-md-10 col-sm-10" style="padding-top: 50px;">
-            <p class="registration-wrapper">Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2023.pdf" target="_blank">Положение</a></p>
+            <p class="registration-wrapper">Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2023_08.pdf" target="_blank">Положение</a></p>
             <p class="registration-wrapper">
                 <a class="btn btn-registration" href="https://myrace.info/events/443" target="_blank">Регистрация</a>
             </p>
