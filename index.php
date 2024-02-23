@@ -90,7 +90,8 @@
             </div>
             <div class="logo">
                 <h1>от Кремля<br/> до Кремля</h1>
-                Долгожданный старт из Коломны в Зарайск
+                <div>Долгожданный старт из Коломны в Зарайск</div>
+                <div>22-23 июня 2024 г.</div>
             </div>
             <div class="home-next">
                 <a href="#about" class="topLink"><img src="images/arr-down.png"></a>
@@ -108,7 +109,7 @@
         <div class="col-sm-11">
             <div class="about-text">
                 <div class="col-md-4 col-sm-12">
-                    <h2 style="margin-top: 0;">Максимальное количество участников – 100 атлетов</h2>
+                    <h2 style="margin-top: 0;">Максимальное количество участников – 150 атлетов</h2>
                 </div>
                 <div class="col-md-4 col-sm-12">
                     <p>Общая длительность маршрута: около 65 км. Для эстафеты доступно 4 этапа длительностью от 12 до 20
@@ -203,7 +204,7 @@
 <p>В местах смены эстафеты мы организуем воду и питание. Просим участников иметь многоразовые стаканчики для воды.</p>
 <p>Участники добираются до старта и перемещаются между местами смены эстафеты на своем транспорте. Часть дистанции будет проходить по дорогам общего пользования. Дороги перекрываться не будут, поэтому всем нужно будет соблюдать правила дорожного движения.</p>
 <p>Для участия нужно будет зарегистрироваться на <a href="https://myrace.info/events/443" target="_blank">myrace.info</a> и оплатить организационный взнос.</p>
-                    <p><a href="/uploads/run2kremlins_2023_08.pdf" target="_blank">Подробнее</a></p>
+                    <p><a href="/uploads/run2kremlins_2024.pdf" target="_blank">Подробнее</a></p>
                 </div>
             </div>
             <div class="col-md-1 hidden-sm"></div>
@@ -216,7 +217,7 @@
             <div class="rotate-header">Регистрация</div>
         </div>
         <div class="col-md-10 col-sm-10" style="padding-top: 50px;">
-            <p class="registration-wrapper">Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2023_08.pdf" target="_blank">Положение</a></p>
+            <p class="registration-wrapper">Перед регистрацией прочитайте, пожалуйста, <a href="/uploads/run2kremlins_2024.pdf" target="_blank">Положение</a></p>
             <p class="registration-wrapper">
                 <a class="btn btn-registration" href="https://myrace.info/events/443" target="_blank">Регистрация</a>
             </p>
